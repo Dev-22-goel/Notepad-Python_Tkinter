@@ -12,7 +12,7 @@ Time spent: **5** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **Create a new file**
-* [x] User can **Open a new a file
+* [x] User can **Open a new a file**
 * [x] User can **Copy, Cut and Paste the File** 
 * [x] User can **Edit, Exit and Save the File**  
 
